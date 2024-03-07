@@ -1,6 +1,6 @@
 //your JS code here. If required.
 document.addEventListener("DOMContentLoaded", function () {
-    // Get the target element with the id "level"
+    
     var targetElement = document.getElementById("level");
 
     // Initialize the DOM level counter
